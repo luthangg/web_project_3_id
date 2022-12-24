@@ -1,0 +1,26 @@
+.place__paragraph_anchor {
+  height: 48px;
+  width: 304px;
+  border-radius: 4px;
+  padding: 13px 20px;
+  background: #0278fe;
+  text-decoration: none;
+  grid-area: anchor;
+  box-sizing: border-box;
+}
+.place__paragraph_anchor:hover {
+  background: #0063d2;
+  transition: 0.3s;
+}
+@media screen and (min-width: 768px) and (max-width: 1280px) {
+  .place__paragraph_anchor {
+    margin-top: -48px;
+  }
+}
+@media screen and (min-width: 320px) and (max-width: 767px) {
+  .place__paragraph_anchor {
+    margin: 0 16px;
+    padding: 13px 12px 9px 12px;
+    width: 288px;
+  }
+}
