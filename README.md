@@ -15,3 +15,4 @@ Ini adalah proyek yang menampilkan kampung halaman beberapa karyawan Practicum. 
 - [Tautkan ke proyek di Figma](https://www.figma.com/file/1zCYcflj6BJx5VqOvXU9nb/Sprint-3-From-Homeland-to-Homeland-desktop-mobile?node-id=0%3A1)
 
 **GitHub Pages**
+https://luthangg.github.io/web_project_3_id/
