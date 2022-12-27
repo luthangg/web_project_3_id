@@ -12,9 +12,9 @@
   background: #0063d2;
   transition: 0.3s;
 }
-@media screen and (min-width: 768px) and (max-width: 1280px) {
+@media screen and (min-width: 768px) and (max-width: 1279px) {
   .place__paragraph_anchor {
-    margin-top: -48px;
+    grid-area: anchor;
   }
 }
 @media screen and (min-width: 320px) and (max-width: 767px) {
